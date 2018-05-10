@@ -12,7 +12,7 @@
 #include <dt-bindings/display/tda998x.h>
 
 / {
-	model = "TI AM335x BeagleBone Black";
+	model = "NKon AM335x Power Control";
 	compatible = "ti,am335x-bone-black", "ti,am335x-bone", "ti,am33xx";
 };
 
